@@ -1,4 +1,4 @@
-# EmployWise
+# EmployWise - a User Management Dashboard
 
 [![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://employwise-nu.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
